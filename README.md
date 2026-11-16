@@ -122,10 +122,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F7E7CE&height=50&text=GITHUB%20STATS&fontSize=18&fontColor=0B3D2E" width="100%" />
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Alpha-source101&show_icons=true&hide_border=false&border_radius=14&bg_color=FFF8E7&title_color=0B6E4F&icon_color=D4AF37&text_color=0B3D2E&ring_color=D4AF37&border_color=D4AF37" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-source101&layout=compact&hide_border=false&border_radius=14&bg_color=FFF8E7&title_color=0B6E4F&text_color=0B3D2E&border_color=D4AF37" alt="Top languages" />
-</p>
+<!-- <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Alpha-source101&show_icons=true&hide_border=false&border_radius=14&bg_color=FFF8E7&title_color=0B6E4F&icon_color=D4AF37&text_color=0B3D2E&ring_color=D4AF37&border_color=D4AF37" alt="GS" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-source101&layout=compact&hide_border=false&border_radius=14&bg_color=FFF8E7&title_color=0B6E4F&text_color=0B3D2E&border_color=D4AF37" alt="TP" />
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Alpha-source101&background=FFF8E7&ring=D4AF37&fire=0B6E4F&currStreakLabel=0B6E4F&sideLabels=0B3D2E&dates=0B3D2E&border=D4AF37" alt="GitHub streak" />
